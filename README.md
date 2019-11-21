@@ -1,4 +1,4 @@
-# Playlist Manager of Tutorial System
+# Video Manager of Tutorial System
 
 ## Description
 
