@@ -20,8 +20,8 @@ Video Manager For Manage Video From Metadata
 | ----------------------------------------- | ------ | ----------------- |
 | `metavideos/{metadata_id}`                | GET    | Get Metavideos    |
 | `metavideos/store/{metadata_id}`          | POST   | Store metavideo   |
-| `update`                                  | POST   | Update metavideo  |
-| `delete`                                  | POST   | Delete metavideo  |
+| `metavideos/update`                       | POST   | Update metavideo  |
+| `metavideos/delete`                       | POST   | Delete metavideo  |
 
 ## Example screen shots of API invocations
 
